@@ -1,0 +1,37 @@
+body{
+    font-family: fantasy;
+    text-align: center;
+    vertical-align: center;
+}
+.button{
+    width: 160px;
+    height: 160px;
+    margin-top: 33px;
+    margin-bottom: 33px;
+    margin-left: 44px;
+    margin-right: 44px;
+    border-radius: 50%;
+   
+    background-color: #AAAAAA;
+    font-size: 90px;
+}
+.flat{
+    border-style: none;
+    box-shadow: none;
+}
+.matinput{
+    width: 1080px;
+    height: 1200px;
+    background-color: #CCCCCC;
+}
+.mathzone{
+    width: 1080px;
+    height: 960px;
+    background-color: #fff;
+}
+.button.equal{
+    background-color: rgb(211, 71, 71);
+}
+.button.operator{
+    background-color: rgb(109, 109, 109);
+}
